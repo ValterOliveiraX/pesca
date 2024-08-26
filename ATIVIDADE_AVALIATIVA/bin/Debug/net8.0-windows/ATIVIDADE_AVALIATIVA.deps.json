@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ATIVIDADE_AVALIATIVA/1.0.0": {
+        "runtime": {
+          "ATIVIDADE_AVALIATIVA.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ATIVIDADE_AVALIATIVA/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
